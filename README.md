@@ -1,6 +1,6 @@
 # Hairistic
 
-![Screenshots of our app](https://github.com/MouReyRB/Hairistic/assets/39531173/d828ccce-7f9a-4046-8185-7d5ff5ad12ec)
+![Screenshots of our app](https://github.com/MouReyRB/Hairistic/assets/39531173/4a9583e9-cd9c-482a-a291-99ad6fd2dd10)
 
 In this project, we aim to explore various hairstyles for women based on their face shape. We will provide guidance on suitable hairstyles for individuals. We will develop this project in stages! Here is the initial project plan!
 
